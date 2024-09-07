@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPSocketTest", "HPSocketTest.csproj", "{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetModel", "..\Model\NetModel.csproj", "{C9883323-E84B-4B22-8B25-6138C159DD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9883323-E84B-4B22-8B25-6138C159DD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9883323-E84B-4B22-8B25-6138C159DD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9883323-E84B-4B22-8B25-6138C159DD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9883323-E84B-4B22-8B25-6138C159DD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A507A746-8451-4333-8870-E506CB188F5F}
+	EndGlobalSection
+EndGlobal
