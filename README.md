@@ -1,2 +1,12 @@
 # myGameDemo
-just for study Unity
+声明：本项目仅用于本人学习Unity游戏引擎，所做内容仅作为学习与成果展示，并不具有可玩性。
+
+目前已实现功能：
+- 基于HPSocket，实现客户端（HPSocketDemo）与服务端（HPSocketTest）网络搭建
+- 基于Sqlite，在服务端与数据库进行连接并实现登录注册功能及相关UI组件
+- 人物动态创建
+- 多个客户端同步显示
+- 基于NevMesh导航组件，实现人物移动
+- 人物近身攻击
+
+游戏截图：
