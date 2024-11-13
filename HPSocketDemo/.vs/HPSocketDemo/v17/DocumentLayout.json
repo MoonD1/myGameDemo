@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProject\\HPSocketDemo\\",
+  "WorkspaceRootPath": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\hpsocketdemo\\assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\hpsocketdemo\\assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\login\\selectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\login\\selectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|d:\\unityproject\\hpsocketdemo\\assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\login\\tipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\login\\selectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\login\\selectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\login\\tipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\login\\tipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\UnityProject\\HPSocketDemo\\assets\\script\\login\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\login\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\login\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,74 +51,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Title": "Flycutter.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Flycutter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Flycutter.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Flycutter.cs",
+              "RelativeToolTip": "Assets\\Script\\Flycutter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:26:30.197Z",
+              "WhenOpened": "2024-11-13T12:34:17.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ObjectPool.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Script\\ObjectPool.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:08:02.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:26:30.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UserManager.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
               "RelativeToolTip": "Assets\\Script\\UserManager.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAQwE8AAAAoAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T18:49:25.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SelectControl.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\SelectControl.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\SelectControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Login\\SelectControl.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\SelectControl.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\SelectControl.cs",
               "RelativeToolTip": "Assets\\Script\\Login\\SelectControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:27:44.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:27:44.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserControl.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UserControl.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
               "RelativeToolTip": "Assets\\Script\\UserControl.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvyMAAAARAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:27:33.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TipControl.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\TipControl.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\TipControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Login\\TipControl.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\TipControl.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\TipControl.cs",
               "RelativeToolTip": "Assets\\Script\\Login\\TipControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T14:35:39.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LoginControl.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\LoginControl.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\LoginControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Login\\LoginControl.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Login\\LoginControl.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Login\\LoginControl.cs",
               "RelativeToolTip": "Assets\\Script\\Login\\LoginControl.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAQwCcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,16 +150,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
-              "DocumentMoniker": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Client.cs",
+              "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Client.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Client.cs",
-              "ToolTip": "D:\\UnityProject\\HPSocketDemo\\Assets\\Script\\Client.cs",
+              "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Client.cs",
               "RelativeToolTip": "Assets\\Script\\Client.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAYwD8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:27:40.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:27:40.895Z"
             }
           ]
         }
