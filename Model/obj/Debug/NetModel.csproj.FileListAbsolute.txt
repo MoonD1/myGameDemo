@@ -1,0 +1,12 @@
+D:\UnityProject\HPSocketDemo\Assets\Plugins\Model.dll
+D:\UnityProject\HPSocketDemo\Assets\Plugins\Model.pdb
+D:\visualStudioProgram\Model\obj\Debug\NetModel.csproj.AssemblyReference.cache
+D:\visualStudioProgram\Model\obj\Debug\NetModel.csproj.CoreCompileInputs.cache
+D:\visualStudioProgram\Model\obj\Debug\Model.dll
+D:\visualStudioProgram\Model\obj\Debug\Model.pdb
+D:\资料（大学）\大三下\UnityProject\HPSocketDemo\Assets\Plugins\Model.dll
+D:\资料（大学）\大三下\UnityProject\HPSocketDemo\Assets\Plugins\Model.pdb
+D:\资料（大学）\大三下\GameDemo\Model\obj\Debug\NetModel.csproj.AssemblyReference.cache
+D:\资料（大学）\大三下\GameDemo\Model\obj\Debug\NetModel.csproj.CoreCompileInputs.cache
+D:\资料（大学）\大三下\GameDemo\Model\obj\Debug\Model.dll
+D:\资料（大学）\大三下\GameDemo\Model\obj\Debug\Model.pdb
