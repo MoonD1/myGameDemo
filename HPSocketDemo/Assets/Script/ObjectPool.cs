@@ -7,10 +7,20 @@ using UnityEngine.Pool;
 public class ObjectPool : MonoBehaviour
 {
     public GameObject flycutter;
-    private ObjectPool<GameObject> pool;
+    public ObjectPool<GameObject> pool;
+    private static ObjectPool instance;
+    public static ObjectPool Instance
+    {
+        get
+        {
+            return instance;
+        }
+
+    }
     // Start is called before the first frame update
     void Awake()
     {
+        instance = this;
         pool = new ObjectPool<GameObject>(
             () =>
             {
@@ -36,12 +46,4 @@ public class ObjectPool : MonoBehaviour
            );
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.E))
-        {
-            pool.Get();
-        }
-    }
 }

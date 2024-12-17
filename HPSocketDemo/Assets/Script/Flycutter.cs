@@ -9,7 +9,8 @@ public class Flycutter : MonoBehaviour
     // Start is called before the first frame update
     private void OnEnable()
     {
-        transform.position = new Vector3(-0.7525501f, -7.453267f, 41.16394f);
+        //transform.position = new Vector3(-0.7525501f, -7.453267f, 41.16394f);
+        //transform.position = new Vector3(0, 0, 0);
         Invoke("DestroySelf", 1);
     }
     private void DestroySelf()

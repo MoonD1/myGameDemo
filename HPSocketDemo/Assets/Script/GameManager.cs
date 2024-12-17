@@ -82,5 +82,20 @@ public class GameManager : MonoBehaviour,IMessage
                 }
             }
         }
+
+        // 发射飞刀
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+            if(Physics.Raycast(ray, out hit))
+            {
+                // 得到角色
+                UserControl user = UserManager.idUserDic[UserManager.ID];
+                //GameObject user = UserManager.User.GetComponent<GameObject>();
+                // 调用飞刀函数
+                FlycutterControl.Instance.getFlyCutter(user, hit.point);
+            }
+        }
     }
 }

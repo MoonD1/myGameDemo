@@ -1330,6 +1330,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 431385882}
   m_CullTransparentMesh: 1
+--- !u!1 &478141003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 478141005}
+  - component: {fileID: 478141004}
+  m_Layer: 0
+  m_Name: FlyCutterControl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &478141004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478141003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8166edf8e40f06c4eb3a4d67eddaee50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pool: {fileID: 1807687445}
+--- !u!4 &478141005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478141003}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7525501, y: -7.453267, z: 41.16394}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &551661351
 GameObject:
   m_ObjectHideFlags: 0
@@ -3672,7 +3717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8df46b5a9e535294c98474ceadddc2c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flycutter: {fileID: 115572, guid: 0d72c17103b886f4ebd560637450ecc3, type: 3}
+  flycutter: {fileID: 115572, guid: 02dfb64f73ecc5042a04688dfb73b4e3, type: 3}
 --- !u!4 &1807687446
 Transform:
   m_ObjectHideFlags: 0
@@ -4288,3 +4333,4 @@ SceneRoots:
   - {fileID: 638902453}
   - {fileID: 2054774649}
   - {fileID: 1807687446}
+  - {fileID: 478141005}
