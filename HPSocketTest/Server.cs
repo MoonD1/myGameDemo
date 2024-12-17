@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using HPSocket;
 using HPSocket.Tcp;
 
+
 namespace HPSocketTest
 {
     public class Server
@@ -23,6 +24,7 @@ namespace HPSocketTest
             server.OnReceive += Server_OnReceive;
 
             server.Start();
+            Console.WriteLine("服务端开启");
             
         }
         

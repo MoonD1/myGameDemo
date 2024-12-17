@@ -13,3 +13,17 @@ D:\visualStudioProgram\HPSocketTest\obj\Debug\HPSocketTest.pdb
 D:\visualStudioProgram\HPSocketTest\bin\Debug\Model.dll
 D:\visualStudioProgram\HPSocketTest\bin\Debug\Model.pdb
 D:\visualStudioProgram\HPSocketTest\bin\Debug\System.Data.SQLite.dll
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocket4C.dll
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocketTest.exe.config
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocketTest.exe
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocketTest.pdb
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocket.Net.dll
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\Model.dll
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\Model.pdb
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocket.Net.pdb
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\bin\Debug\HPSocket.Net.xml
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\obj\Debug\HPSocketTest.csproj.AssemblyReference.cache
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\obj\Debug\HPSocketTest.csproj.CoreCompileInputs.cache
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\obj\Debug\HPSocket.6183949A.Up2Date
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\obj\Debug\HPSocketTest.exe
+D:\资料（大学）\大三下\GameDemo\HPSocketTest\obj\Debug\HPSocketTest.pdb
