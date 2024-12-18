@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using HPSocket;
 using HPSocket.Tcp;
 
-
 namespace HPSocketTest
 {
     public class Server

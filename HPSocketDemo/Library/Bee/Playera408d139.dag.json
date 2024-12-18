@@ -302,7 +302,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 13609,
+      "PayloadLength": 13884,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -397,17 +397,17 @@
         "D:/Unity/2022.3.38f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "D:/Unity/2022.3.38f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "D:/Unity/2022.3.38f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "D:/UnityProject/HPSocketDemo/Assets/Plugins/Model.dll",
-        "D:/UnityProject/HPSocketDemo/Assets/Plugins/HPSocket.Net.dll",
-        "D:/UnityProject/HPSocketDemo/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Assets/Plugins/Model.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Assets/Plugins/HPSocket.Net.dll",
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "D:/Unity/2022.3.38f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "D:/Unity/2022.3.38f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "D:/Unity/2022.3.38f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1325,7 +1325,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Assembly-CSharp.dll"
@@ -1337,7 +1337,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.Timeline.dll"
@@ -1349,7 +1349,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/UnityEngine.UI.dll"
@@ -1361,7 +1361,7 @@
       "DisplayName": "Copying Unity.AI.Navigation.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.AI.Navigation.dll"
@@ -1373,7 +1373,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.TextMeshPro.dll"
@@ -1385,7 +1385,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1397,7 +1397,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1409,7 +1409,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1421,7 +1421,7 @@
       "DisplayName": "Copying Model.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Assets/Plugins/Model.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Assets/Plugins/Model.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Model.dll"
@@ -1433,7 +1433,7 @@
       "DisplayName": "Copying HPSocket.Net.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Assets/Plugins/HPSocket.Net.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Assets/Plugins/HPSocket.Net.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/HPSocket.Net.dll"
@@ -1445,7 +1445,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/UnityProject/HPSocketDemo/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "game/HPSocketDemo_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1708,7 +1708,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 13781,
+      "PayloadOffset": 14056,
       "PayloadLength": 27,
       "PayloadDebugContentSnippet": "DefaultCompany\nHPSocketDemo",
       "Inputs": [],
@@ -2379,6 +2379,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Playera408d139.dag.json",
-  "PayloadsFile": "D:/UnityProject/HPSocketDemo/Library/Bee/Playera408d139.dag.payloads",
+  "PayloadsFile": "D:/资料（大学）/大三下/GameDemo/HPSocketDemo/Library/Bee/Playera408d139.dag.payloads",
   "RelativePathToRoot": "../.."
 }

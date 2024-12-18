@@ -1,6 +1,7 @@
 ﻿using System;
 using System.CodeDom;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 
 //序列化标记，加了标记后才可以转成二进制
@@ -63,6 +64,12 @@ public class Message
         public const int Game_AttackC = 110;
         //攻击 （攻击者id） （目标id） （目标剩余血量）
         public const int Game_AttackS = 111;
+        //扔飞刀（攻击者id） （位置）
+        public const int Game_FlycutterC = 112;
+        public const int Game_FlycutterS = 113;
+        //被飞刀击中（被攻击者id） （被攻击者剩余血量）
+        public const int Game_HurtByFlycutterC = 114;
+        public const int Game_HurtByFlycutterS = 115;
 
     }
 }
