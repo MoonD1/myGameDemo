@@ -71,6 +71,9 @@ public class UserManager : MonoBehaviour, IMessage
             GameObject userPre = Resources.Load<GameObject>(modelid.ToString());
             //实例化
             GameObject userI = Instantiate(userPre, new Vector3(points[0], points[1], points[2]), Quaternion.identity);
+            //修改标签
+            //userI.tag = "Myself";
+            //获取UserControl
             UserControl userControl = userI.GetComponent<UserControl>();
             userControl.id = userid;
             ID = userid;

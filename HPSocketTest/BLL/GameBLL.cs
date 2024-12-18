@@ -24,6 +24,13 @@ namespace HPSocketTest
                 case Message.Type.Game_AttackC:
                     Attack(connId, msg);
                     break;
+                case Message.Type.Game_FlycutterC:
+                    Flycutter(connId, msg);
+                    break;
+                case Message.Type.Game_HurtByFlycutterC:
+                    //Console.Out.WriteLine("hurt");
+                    HurtByFlycutter(connId, msg);
+                    break;
             }
         }
 
@@ -54,6 +61,29 @@ namespace HPSocketTest
                 Server.Send(ptr, Message.Type.Type_Game, Message.Type.Game_AttackS, attackuser.ID, targetid, targetuser.HP);
             }
 
+        }
+
+        void Flycutter(IntPtr connId, Message msg)
+        {
+            int userid = msg.GetContent<int>(0);
+            float[] targetPos = msg.GetContent<float[]>(1);
+            //通知所有客户端，这个用户要向目标位置使用飞刀
+            foreach (IntPtr ptr in DALMenager.Instance.user.GetUserPtrs())
+            {
+                Server.Send(ptr, Message.Type.Type_Game, Message.Type.Game_FlycutterS, userid, targetPos);
+            }
+        }
+
+        void HurtByFlycutter(IntPtr connId, Message msg)
+        {
+            int targetid = msg.GetContent<int>(0);
+            UserModel targetuser = DALMenager.Instance.user.GetUserModel(targetid);
+            targetuser.HP -= 20;
+            //通知所有客户端，这个用户受伤了
+            foreach (IntPtr ptr in DALMenager.Instance.user.GetUserPtrs())
+            {
+                Server.Send(ptr, Message.Type.Type_Game, Message.Type.Game_HurtByFlycutterS, targetid, targetuser.HP);
+            }
         }
     }
 }

@@ -19,6 +19,9 @@ public class GameManager : MonoBehaviour,IMessage
             case Message.Type.Game_AttackS:
                 Attack(message);
                 break;
+            case Message.Type.Game_HurtByFlycutterS:
+                HurtByFlycutter(message);
+                break;
         }
     }
 
@@ -44,6 +47,19 @@ public class GameManager : MonoBehaviour,IMessage
         }
     }
 
+    void HurtByFlycutter(Message message)
+    {
+        int targetid = message.GetContent<int>(0);
+        int targethp = message.GetContent<int>(1);
+
+        //受伤特效状态转换（没有做）
+        //UserManager.idUserDic[targetid].hurt();
+
+        if(targethp <= 0)
+        {
+            UserManager.idUserDic[targetid].Die();
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -90,11 +106,14 @@ public class GameManager : MonoBehaviour,IMessage
             RaycastHit hit;
             if(Physics.Raycast(ray, out hit))
             {
+                Vector3 targetPos = hit.point;
+                Client.Send(new Message(Message.Type.Type_Game, Message.Type.Game_FlycutterC, UserManager.ID, new float[] {targetPos.x, targetPos.y, targetPos.z }));
+                
                 // 得到角色
-                UserControl user = UserManager.idUserDic[UserManager.ID];
+                //UserControl user = UserManager.idUserDic[UserManager.ID];
                 //GameObject user = UserManager.User.GetComponent<GameObject>();
                 // 调用飞刀函数
-                FlycutterControl.Instance.getFlyCutter(user, hit.point);
+                //FlycutterManager.Instance.getFlyCutter(user, hit.point);
             }
         }
     }

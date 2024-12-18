@@ -18,4 +18,19 @@ public class Flycutter : MonoBehaviour
         // Debug.Log("Destory");
         pool.Release(gameObject);
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Flycutter");
+        if (other != null && other.GetComponent<UserControl>().id != UserManager.ID)
+        {
+            Debug.Log("hurt it!");
+            
+            //发送被打中者id到服务端
+            int id = other.GetComponent<UserControl>().id;
+            Client.Send(new Message(Message.Type.Type_Game, Message.Type.Game_HurtByFlycutterC, id));
+        }
+        
+    }
+
 }
