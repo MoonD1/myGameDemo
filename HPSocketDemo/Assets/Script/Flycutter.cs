@@ -6,6 +6,7 @@ using UnityEngine.Pool;
 public class Flycutter : MonoBehaviour
 {
     public ObjectPool<GameObject> pool;
+    private UserControl user;
     // Start is called before the first frame update
     private void OnEnable()
     {
@@ -21,8 +22,9 @@ public class Flycutter : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Flycutter");
-        if (other != null && other.GetComponent<UserControl>().id != UserManager.ID)
+        //Debug.Log("Flycutter");
+        int otherID = other.GetComponent<UserControl>().id;
+        if (other != null && otherID != user.id && otherID == UserManager.ID)
         {
             Debug.Log("hurt it!");
             
@@ -31,6 +33,11 @@ public class Flycutter : MonoBehaviour
             Client.Send(new Message(Message.Type.Type_Game, Message.Type.Game_HurtByFlycutterC, id));
         }
         
+    }
+
+    public void ChangeUser(UserControl user)
+    {
+        this.user = user;
     }
 
 }

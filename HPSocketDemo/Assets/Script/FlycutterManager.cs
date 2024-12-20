@@ -59,6 +59,8 @@ public class FlycutterManager : MonoBehaviour, IMessage
 
             // 生成飞刀
             GameObject flycutter = ObjectPool.Instance.pool.Get();
+            Flycutter flycutterComponent = flycutter.GetComponent<Flycutter>();
+            flycutterComponent.ChangeUser(user);
 
             // 设置飞刀初始位置
             Vector3 userPos = user.transform.position;

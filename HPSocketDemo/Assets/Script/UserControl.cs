@@ -16,7 +16,7 @@ public class UserControl : MonoBehaviour
     //目标位置
     private Vector3 targetPosition;
     //是否死亡（如果死亡，就不会更新）
-    bool isDie = false;
+    public bool isDie = false;
 
     // Start is called before the first frame update
     void Start()

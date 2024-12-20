@@ -67,6 +67,14 @@ namespace HPSocketTest
         {
             int userid = msg.GetContent<int>(0);
             float[] targetPos = msg.GetContent<float[]>(1);
+            //如果这个用户已经死亡了，就直接返回
+            UserModel user = DALMenager.Instance.user.GetUserModel(userid);
+            if(user.HP <= 0)
+            {
+                return;
+            }
+
+
             //通知所有客户端，这个用户要向目标位置使用飞刀
             foreach (IntPtr ptr in DALMenager.Instance.user.GetUserPtrs())
             {
@@ -78,7 +86,15 @@ namespace HPSocketTest
         {
             int targetid = msg.GetContent<int>(0);
             UserModel targetuser = DALMenager.Instance.user.GetUserModel(targetid);
+
+            // 对于已死亡用户，不继续进行通讯和计算，减少负担
+            if(targetuser.HP <= 0)
+            {
+                return;
+            }
+
             targetuser.HP -= 20;
+            //Console.WriteLine(targetuser.HP);
             //通知所有客户端，这个用户受伤了
             foreach (IntPtr ptr in DALMenager.Instance.user.GetUserPtrs())
             {

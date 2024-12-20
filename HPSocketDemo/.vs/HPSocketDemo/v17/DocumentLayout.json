@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\flycuttermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flycuttermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\hpsocketdemo\\assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\flycuttermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flycuttermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\hpsocketdemo\\assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flycutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF2626-E4BD-8C67-50B0-CFFB6BDECB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Client.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Client.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Client.cs",
               "RelativeToolTip": "Assets\\Script\\Client.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T08:25:45.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FlycutterManager.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\FlycutterManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FlycutterManager.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\FlycutterManager.cs",
               "RelativeToolTip": "Assets\\Script\\FlycutterManager.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwD8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T08:14:01.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Flycutter.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Flycutter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Flycutter.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\Flycutter.cs",
               "RelativeToolTip": "Assets\\Script\\Flycutter.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T12:34:17.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ObjectPool.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\ObjectPool.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ObjectPool.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\ObjectPool.cs",
               "RelativeToolTip": "Assets\\Script\\ObjectPool.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T12:08:02.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T20:26:30.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "UserManager.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UserManager.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserManager.cs",
               "RelativeToolTip": "Assets\\Script\\UserManager.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwEoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T18:49:25.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UserControl.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UserControl.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketDemo\\Assets\\Script\\UserControl.cs",
               "RelativeToolTip": "Assets\\Script\\UserControl.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAIwAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:27:33.954Z",
               "EditorCaption": ""

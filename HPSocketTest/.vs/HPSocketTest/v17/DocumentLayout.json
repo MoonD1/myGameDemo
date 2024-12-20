@@ -3,38 +3,27 @@
   "WorkspaceRootPath": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9883323-E84B-4B22-8B25-6138C159DD4A}|..\\Model\\NetModel.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\gamebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\gamebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\bllmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\bllmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\dal\\dalmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:dal\\dalmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\hpsockettest\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\dal\\dalmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:dal\\dalmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,6 +33,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\bll\\bllmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:bll\\bllmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|solutionrelative:model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9883323-E84B-4B22-8B25-6138C159DD4A}|..\\Model\\NetModel.csproj|d:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\gamedemo\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D098180-92FC-4D0B-94AA-B7CDA82C9CE3}|HPSocketTest.csproj|D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,11 +68,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\Model\\Message.cs",
               "RelativeDocumentMoniker": "..\\Model\\Message.cs",
@@ -85,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameBLL.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\GameBLL.cs",
               "RelativeDocumentMoniker": "BLL\\GameBLL.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\GameBLL.cs",
               "RelativeToolTip": "BLL\\GameBLL.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T20:13:05.08Z",
               "EditorCaption": ""
@@ -104,14 +104,14 @@
               "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\UserBLL.cs",
               "RelativeToolTip": "BLL\\UserBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:59:19.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AccountModel.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\Model\\AccountModel.cs",
               "RelativeDocumentMoniker": "Model\\AccountModel.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BLLMenager.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\BLLMenager.cs",
               "RelativeDocumentMoniker": "BLL\\BLLMenager.cs",
@@ -137,20 +137,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "AccountBLL.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\AccountBLL.cs",
               "RelativeDocumentMoniker": "BLL\\AccountBLL.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\AccountBLL.cs",
               "RelativeToolTip": "BLL\\AccountBLL.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwAwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T08:44:51.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "IMessageHandle.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\BLL\\IMessageHandle.cs",
               "RelativeDocumentMoniker": "BLL\\IMessageHandle.cs",
@@ -163,20 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Server.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\Server.cs",
               "RelativeDocumentMoniker": "Server.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\Server.cs",
               "RelativeToolTip": "Server.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwDUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T13:04:47.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DALMenager.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\DAL\\DALMenager.cs",
               "RelativeDocumentMoniker": "DAL\\DALMenager.cs",
@@ -189,26 +189,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UserDAL.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\DAL\\UserDAL.cs",
               "RelativeDocumentMoniker": "DAL\\UserDAL.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\DAL\\UserDAL.cs",
               "RelativeToolTip": "DAL\\UserDAL.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAA0wDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:59:29.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "Model\\UserModel.cs",
               "ToolTip": "D:\\\u8D44\u6599\uFF08\u5927\u5B66\uFF09\\\u5927\u4E09\u4E0B\\GameDemo\\HPSocketTest\\Model\\UserModel.cs",
               "RelativeToolTip": "Model\\UserModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:59:37.563Z",
               "EditorCaption": ""
