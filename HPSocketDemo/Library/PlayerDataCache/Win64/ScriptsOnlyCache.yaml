@@ -1093,7 +1093,7 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
-      Hash: e59b99040085984773b7953571bad20b
+      Hash: 603ed491b436b323dc322f31ddd8d082
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: UserControl
@@ -1478,4 +1478,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/UnityProject/HPSocketDemo/game/HPSocketDemo.exe
+  playerPath: "D:/\u8D44\u6599\uFF08\u5927\u5B66\uFF09/\u5927\u4E09\u4E0B/GameDemo/HPSocketDemo/game/HPSocketDemo.exe"
